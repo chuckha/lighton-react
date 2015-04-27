@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-core": "^5.1.11",
     "babel-loader": "^5.0.0",
+    "classnames": "^1.2.1",
     "react": "^0.13.2",
     "reflux": "^0.2.7",
     "webpack": "^1.8.9",
